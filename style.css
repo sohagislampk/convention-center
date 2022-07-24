@@ -7,3 +7,12 @@
 .package {
     transition: 0.5s;
 }
+
+.card img {
+    width: 100px;
+    height: 100px;
+}
+
+.feedback {
+    box-shadow: 5px 5px 30px 5px lightgrey;
+}
