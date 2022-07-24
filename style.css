@@ -1,0 +1,9 @@
+.package:hover {
+    background-color: #3F87F5;
+    margin-top: -20px !important;
+    box-shadow: 2px 2px 30px 2px #3f88f579;
+}
+
+.package {
+    transition: 0.5s;
+}
